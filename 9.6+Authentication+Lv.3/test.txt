@@ -1,0 +1,1 @@
+directx function m_swapchain->resizebuffers( m_buffercount, m_info.width, m_info.height, m_outputmode.format, swapchaindesc.flags) failed with dxgi_error_invalid_call ( the application provided invalid parameter data; this must be debugged and fixed before the application is released. gpu: nvidia geforce rtx 3060 ti , driver: 56636
